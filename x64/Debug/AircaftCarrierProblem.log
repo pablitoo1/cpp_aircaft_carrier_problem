@@ -1,0 +1,12 @@
+﻿  AircaftCarrierProblem.cpp
+D:\CPP PROJECTS\AircaftCarrierProblem\AircaftCarrierProblem.cpp(253,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\CPP PROJECTS\AircaftCarrierProblem\AircaftCarrierProblem.cpp(256,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\CPP PROJECTS\AircaftCarrierProblem\AircaftCarrierProblem.cpp(259,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\CPP PROJECTS\AircaftCarrierProblem\AircaftCarrierProblem.cpp(270,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\CPP PROJECTS\AircaftCarrierProblem\AircaftCarrierProblem.cpp(273,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\CPP PROJECTS\AircaftCarrierProblem\AircaftCarrierProblem.cpp(276,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\CPP PROJECTS\AircaftCarrierProblem\AircaftCarrierProblem.cpp(289,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\CPP PROJECTS\AircaftCarrierProblem\AircaftCarrierProblem.cpp(292,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\CPP PROJECTS\AircaftCarrierProblem\AircaftCarrierProblem.cpp(295,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\CPP PROJECTS\AircaftCarrierProblem\AircaftCarrierProblem.cpp(409,45): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+  AircaftCarrierProblem.vcxproj -> D:\CPP PROJECTS\AircaftCarrierProblem\x64\Debug\AircaftCarrierProblem.exe
